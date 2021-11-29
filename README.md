@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://temp-ha3.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a> 
 
 ## 📌
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suu3&show_icons=true&theme=radical)
