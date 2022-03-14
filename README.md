@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Suu3&fontSize=90&animation=fadeIn)
 
 🤗 Hi there! I'm suu3, a noob developer.  
-😍 I like creation, learning and develop.  
+😍 I like creation, learning and development.  
 🌱 I'm currently learning <b>React</b> and <b>Algorithm(PS)</b> with interest.
 
 
