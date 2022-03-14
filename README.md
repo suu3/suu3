@@ -43,35 +43,35 @@
       <h2>👥 Team Project</h2>
       <h3>👤 Deep Learning</h3>
       <a href="https://github.com/School-is-hard/Chatbot_Buddy">딥러닝 기반 챗봇 스피커 '버디' 프로젝트</a><br/>
-      : 라즈베리파이와 Microsoft azure의 deep learning 기술, VM, 3D 프린팅 등을 사용하여 만든<br/>
+      : <b>라즈베리파이와 Microsoft azure의 deep learning 기술, VM, 3D 프린팅</b> 등을 사용하여 만든<br/>
       감정을 인식하여 말을 걸어주는 심리 안정 스피커입니다.
       <h3>💻 Web</h3>
       <div>
          <a href="https://github.com/piro16knockknock/knockknock">KNOCK/KNOCK</a><br/>
-         : AWS, Django를 사용하여 만든 룸메이트와의 평화로운 거주 생활을 위한 생활 관리 웹사이트 입니다.  
+         : <b>AWS, Django</b>를 사용하여 만든 룸메이트와의 평화로운 거주 생활을 위한 생활 관리 웹사이트 입니다.  
          </div>
          <br/>
       <div>
          <a href="https://github.com/RAINBOW-07/RAINBOW_FASION_WEB">패션 정보 웹 Rainbow</a><br/>
-         : 쇼핑몰 파이썬 크롤링한 데이터와 네이버 데이터랩 데이터 & Xampp를 사용해 만든 쇼핑몰 정보 분석 사이트입니다.<br/>
+         : <b>쇼핑몰 파이썬 크롤링한 데이터와 네이버 데이터랩 데이터 & Xampp</b>를 사용해 만든 쇼핑몰 정보 분석 사이트입니다.<br/>
          php session / mysql SELECT & INSERT & DELETE & COUNT & GROUP BY 등의 다양한 쿼리를 사용했습니다.
       </div>
       <h3>📱 Mobile</h3>
       <div>
          <a href="https://github.com/suu3/Gymt">Gymt</a><br/>
-         : React Native로 개발한 공공체육관 정보 제공 앱입니다.
+         : <b>React Native</b>로 개발한 공공체육관 정보 제공 앱입니다.
          </div>
          <br/>
       <div>
          <a href="https://github.com/OSP-todo/todo">Work & Life To-Do</a><br/>
-         : React Native로 개발한 할 일을 삶과 일 카테고리로 나누어 설정하여 삶과 일의 균형을 보여주는 투두리스트 앱입니다.
+         : <b>React Native</b>로 개발한 할 일을 삶과 일 카테고리로 나누어 설정하여 삶과 일의 균형을 보여주는 투두리스트 앱입니다.
       </div>
       <hr/>
-      <h2>👤 Personal Project</h2>
-      <h3>ETC</h3>
+      <h2>👤 ETC</h2>
+      <h3>Personal Project</h3>
       <div>
          <a href="https://github.com/suu3/react_practice">React Practice</a><br/>
-         : 개인적으로 만들어 보고 싶은 컴포넌트를 그때그때 만들면서 리액트를 연습하고 있는 레포입니다.
+         : 개인적으로 만들어 보고 싶은 컴포넌트를 그때그때 만들면서 <b>React</b>를 연습하고 있는 레포입니다.
       </div>
       <br/>
       <h3>Algorithm</h3>
@@ -79,8 +79,15 @@
          <a href="https://github.com/Altu-Bitu/Altu-Bitu-Suu">Altu-Bitu-Suu</a> / <a href="https://github.com/suu3/Algorithm">Algorithm</a><br/>
          : 백준, 프로그래머스 PS를 업로드 하고 있습니다.
       </div>
-      
-
+      <br/>
+      <h3>동아리</h3>
+      <div>
+         웹 프로그래밍 동아리 과제 레포. (<b>python, html, css, javascript, Django</b>) <br/>
+         <li><a href="https://github.com/piro16/ByunSugyeong">종합 개인 과제</a></li>
+         <li><a href="https://github.com/piro16/Piro16_Arsha_02">CSS 클론코딩 팀 과제</a></li>
+         <li><a href="https://github.com/piro16/Piro16_PythonGame_05">Python으로 만든 술 게임 팀 과제</a><br/></li>
+         <li><a href="https://github.com/piro16/Piro16_CardGame_03">Django로 만든 Card game 팀 과제</a><br/></li> 
+      </div>
    </div>
 </details>
 <!--
