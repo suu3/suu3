@@ -2,7 +2,7 @@
 
 🤗 Hi there! I'm suu3, a noob developer.  
 😍 I like creation, learning and development.  
-🌱 I'm currently learning <b>React</b> and <b>Algorithm(PS)</b> with interest.
+🌱 I'm currently learning <b>React</b> and <b>TypeScript(PS)</b> with interest.
 
 
 
@@ -72,6 +72,11 @@
       <div>
          <a href="https://github.com/suu3/react_practice">React Practice</a><br/>
          : 개인적으로 만들어 보고 싶은 컴포넌트를 그때그때 만들면서 <b>React</b>를 연습하고 있는 레포입니다.
+      </div>
+      <br/>
+      <div>
+         <a href="https://github.com/suu3/movie_web">Movie Web</a><br/>
+         : <b>TypeScript, sass, React</b>를 사용해서 만든 영화 관련 웹 사이드 프로젝트입니다.
       </div>
       <br/>
       <h3>Algorithm</h3>
