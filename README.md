@@ -2,7 +2,7 @@
 
 🤗 Hi there! I'm suu3, a noob developer.  
 😍 I like creation, learning and development.  
-🌱 I'm currently learning <b>React</b> and <b>TypeScript(PS)</b> with interest.
+🌱 I'm currently learning <b>React</b> and <b>TypeScript</b>.
 
 
 
