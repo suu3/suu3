@@ -15,7 +15,8 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white" />
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -57,6 +58,12 @@
          php session / mysql SELECT & INSERT & DELETE & COUNT & GROUP BY 등의 다양한 쿼리를 사용했습니다.
       </div>
       <h3>📱 Mobile</h3>
+      <div>
+         <a href="https://github.com/Numble3/Paws-Frontend">PAWS</a><br/>
+         : <b>NextJS</b>를 사용하여 백엔드(Spring), 디자이너와 협업하여 만든 반려동물 숏 폼 모바일 웹 서비스입니다.
+         </div>
+         <br/>
+      <div>
       <div>
          <a href="https://github.com/suu3/Gymt">Gymt</a><br/>
          : <b>React Native</b>로 개발한 공공체육관 정보 제공 앱입니다.
