@@ -60,7 +60,7 @@
       <h3>📱 Mobile</h3>
       <div>
          <a href="https://github.com/Numble3/Paws-Frontend">PAWS</a><br/>
-         : <b>NextJS</b>를 사용하여 백엔드(Spring), 디자이너와 협업하여 만든 반려동물 숏 폼 모바일 웹 서비스입니다.
+         : <b>NextJS, TypeScript</b>를 사용하여 백엔드(Spring), 디자이너와 협업하여 만든 반려동물 숏 폼 모바일 웹 서비스입니다.
          </div>
          <br/>
       <div>
