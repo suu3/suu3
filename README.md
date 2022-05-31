@@ -91,15 +91,6 @@
          <a href="https://github.com/Altu-Bitu/Altu-Bitu-Suu">Altu-Bitu-Suu</a> / <a href="https://github.com/suu3/Algorithm">Algorithm</a><br/>
          : 백준, 프로그래머스 PS를 업로드 하고 있습니다.
       </div>
-      <br/>
-      <h3>동아리</h3>
-      <div>
-         웹 프로그래밍 동아리 과제 레포. (<b>python, html, css, javascript, Django</b>) <br/>
-         <li><a href="https://github.com/piro16/ByunSugyeong">종합 개인 과제</a></li>
-         <li><a href="https://github.com/piro16/Piro16_Arsha_02">CSS 클론코딩 팀 과제</a></li>
-         <li><a href="https://github.com/piro16/Piro16_PythonGame_05">Python으로 만든 술 게임 팀 과제</a><br/></li>
-         <li><a href="https://github.com/piro16/Piro16_CardGame_03">Django로 만든 Card game 팀 과제</a><br/></li> 
-      </div>
    </div>
 </details>
 <!--
