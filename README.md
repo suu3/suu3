@@ -37,7 +37,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suu3&show_icons=true&theme=radical)
 </div>
-
+<!-- 
 <details>
    <summary><h3>🤔 If you wanna know about my repositiory...</h3></summary>
    <div>
@@ -92,7 +92,7 @@
          : 백준, 프로그래머스 PS를 업로드 하고 있습니다.
       </div>
    </div>
-</details>
+</details> -->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
